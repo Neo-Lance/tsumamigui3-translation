@@ -1,0 +1,18 @@
+Top right corner
+Game mode pure/serious
+女性関係 Woman relationship
+アイテム Item
+
+Top left corner
+時間帯 Time
+朝 morning
+昼 daytime
+夜 nightime
+入浴 bathing
+深夜 late night 
+
+Left gauge
+精力 energy
+
+Bottom left
+所持金 money in one's possession

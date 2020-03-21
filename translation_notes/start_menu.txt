@@ -1,0 +1,4 @@
+はじめから　Start　ロード Load　クイックロード Quick Load
+CG 回想 Recollection 音楽 Music
+コンフィグ　Config アンケート　Survey マニュアル Manual
+ゲーム終了　Quit

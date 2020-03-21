@@ -1,0 +1,4 @@
+3 bottom buttons
+ゲームを終了する Quit game
+タイトルに戻る Return to title
+ゲームに戻る Return to game
