@@ -1,8 +1,8 @@
 |Event name (JP)|Event name (EN)|Status
 |--|--|--
-|０１日目/朝/商店街|day_01/morning/shopping_district|To do
-|０１日目/昼１/駄菓子屋|day_01/daytime_1/candy_store|To do
-|０１日目/昼２/河川敷|day_01/daytime_2/river_terrace|To do
+|０１日目/朝/商店街|day_01/morning/shopping_district|Done
+|０１日目/昼１/駄菓子屋|day_01/daytime_1/candy_store|Done
+|０１日目/昼２/河川敷|day_01/daytime_2/river_terrace|Done
 |３１日目/朝/駅前/孤独|day_31/morning/in_front_of_station/solitude|To do
 |スナック/汎用/朝|snack/generic/morning|To do
 |スナック/汎用/昼１|snack/generic/daytime_1|To do
@@ -74,8 +74,8 @@
 |祭り/孤独/入浴|festival/solitude/bath|To do
 |祭り/孤独/深夜|festival/solitude/late_night|To do
 |病院/阻止/昼１|hospital/obstruction/daytime_1|To do
-|０１日目/朝|day_01/morning|To do
-|０１日目/夜１/スナック|day_01/night_1/snack|To do
+|０１日目/朝|day_01/morning|Done
+|０１日目/夜１/スナック|day_01/night_1/snack|In progress
 |０１日目/夜２/神社|day_01/night_2/shinto_shrine|To do
 |０１日目/入浴/実家|day_01/bath/parents_home|To do
 |０１日目/深夜/実家|day_01/late_night/parents_home|To do
