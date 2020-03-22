@@ -13,10 +13,7 @@
 (of course you would be wise to back up the original files)
 
 ## How to contribute
-- Look in `event_list.md` and pick an event with a todo status
-- Announce that you're intending to work on it. I will be grateful to know that someone is actually interested, and we will make sure to avoid having 2 people work on the same thing. 
-Maybe send a mail or create an issue on github.
-- Take the following guidelines into account.
+If you want to contribute, please send me a mail. I will test you to ensure that you can contribute with a minimum level of quality.
 
 ## Translation guidelines
 It's hard to make exact guidelines about how to translate, but some aspects should be simple enough to be respected precisely as rules (these are somewhat more superficial). These rules are open for discussion. Also, for the hardly definable aspects, there are some general guidelines.
