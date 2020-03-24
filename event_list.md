@@ -75,8 +75,8 @@
 |祭り/孤独/深夜|festival/solitude/late_night|To do
 |病院/阻止/昼１|hospital/obstruction/daytime_1|To do
 |０１日目/朝|day_01/morning|Done
-|０１日目/夜１/スナック|day_01/night_1/snack|In progress
-|０１日目/夜２/神社|day_01/night_2/shinto_shrine|To do
+|０１日目/夜１/スナック|day_01/night_1/snack|Done
+|０１日目/夜２/神社|day_01/night_2/shinto_shrine|In progress
 |０１日目/入浴/実家|day_01/bath/parents_home|To do
 |０１日目/深夜/実家|day_01/late_night/parents_home|To do
 |０２日目/朝/実家|day_02/morning/parents_home|To do
