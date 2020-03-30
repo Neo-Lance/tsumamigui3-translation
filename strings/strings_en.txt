@@ -1,3 +1,7 @@
 
 s[1492] = "%s love level increased to %D"
 s[1690] = "You can check in【Relationships】!"
+
+s[2168] = "%s love event acquired!"
+
+s[2286] = "%s acquired"
