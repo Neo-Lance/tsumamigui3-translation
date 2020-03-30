@@ -220,7 +220,7 @@
 ;s[2211] = "明人／フッ"
 ;m[2962] = "（Like a brother……）"
 ;s[2489] = "実家（リビング）／夜"
-;m[2963] = "After a short time, Kazuo came back from work."
+;m[2963] = "After a short time, Kazuto came back from work."
 ;s[1012] = "和人"
 ;s[1118] = "スーツ"
 ;s[1012] = "和人"

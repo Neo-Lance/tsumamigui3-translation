@@ -148,7 +148,7 @@
 |海夕里/メイン/デート３|miyuri/main/date_3|To do
 |海夕里/メイン/デート４|miyuri/main/date_4|To do
 |海夕里/メイン/海夕里引きこもる|miyuri/main/miyuri_stay_indoors|To do
-|海夕里/メイン/和人断られる|miyuri/main/kazuo_refuse|To do
+|海夕里/メイン/和人断られる|miyuri/main/kazuto_refuse|To do
 |海夕里/メイン/海夕里危機一髪|miyuri/main/miyuri_close_call|To do
 |海夕里/メイン/海夕里の決意|miyuri/main/miyuris_resolution|To do
 |海夕里/メイン/初めての交わり|miyuri/main/first_acquaintance|To do
@@ -164,7 +164,7 @@
 |海夕里/メイン/日焼けプリン|miyuri/main/sunburn_pudding|To do
 |海夕里/メイン/藍の勘|miyuri/main/ais_perception|To do
 |海夕里/メイン/入浴お断り|miyuri/main/bath_declining|To do
-|海夕里/メイン/和人の疑念１|miyuri/main/kazuos_doubt|To do
+|海夕里/メイン/和人の疑念１|miyuri/main/kazutos_doubt|To do
 |海夕里/メイン/疼く肉体|miyuri/main/aching_flesh|To do
 |海夕里/メイン/海夕里の決断|miyuri/main/miyuris_decision|To do
 |海夕里/メイン/浮気を目撃？|miyuri/main/witnessing_infidelity|To do
@@ -183,7 +183,7 @@
 |海夕里/メイン/海夕里の泡遊戯|miyuri/main/miyuris_bubble_game|To do
 |海夕里/メイン/覚悟を見せて|miyuri/main/displaying_readiness|To do
 |海夕里/メイン/生理きてる？|miyuri/main/menstruation_comes|To do
-|海夕里/メイン/和人の疑念２|miyuri/main/kazuos_doubt|To do
+|海夕里/メイン/和人の疑念２|miyuri/main/kazutos_doubt|To do
 |海夕里/メイン/妻の浮気|miyuri/main/wifes_affair|To do
 |海夕里/メイン/妻の拒絶|miyuri/main/wifes_refusal|To do
 |海夕里/メイン/２人の決意|miyuri/main/two_persons_decision|To do
@@ -206,7 +206,7 @@
 |ＮＴＲ/武雄/悪戯の理由|ntr/takeo/prank_motive|To do
 |ＮＴＲ/武雄/月明かり|ntr/takeo/moonlight|To do
 |ＮＴＲ/武雄/アッシーになりたい|ntr/takeo/want_to_be_asshi|To do
-|ＮＴＲ/武雄/ゲロゲロ和人|ntr/takeo/gerogero_kazuo|To do
+|ＮＴＲ/武雄/ゲロゲロ和人|ntr/takeo/gerogero_kazuto|To do
 |ＮＴＲ/武雄/武雄の手|ntr/takeo/takeos_hand|To do
 |ＮＴＲ/武雄/爽やかな朝|ntr/takeo/fresh_morning|To do
 |ＮＴＲ/武雄/ガマンの限界|ntr/takeo/limit_of_patience|To do
@@ -217,12 +217,12 @@
 |ＮＴＲ/武雄/受け入れる海夕里|ntr/takeo/miyuri_accepts|To do
 |ＮＴＲ/武雄/武雄との初めて|ntr/takeo/first_time_with_takeo|To do
 |ＮＴＲ/武雄/武雄の宣言|ntr/takeo/takeos_declaration|To do
-|ＮＴＲ/武雄/和人帰宅|ntr/takeo/kazuo_return_home|To do
+|ＮＴＲ/武雄/和人帰宅|ntr/takeo/kazuto_return_home|To do
 |ＮＴＲ/武雄/武雄に当て付け１|ntr/takeo/insuation_about_takeo_1|To do
 |ＮＴＲ/武雄/武雄に当て付け２|ntr/takeo/insuation_about_takeo_2|To do
 |ＮＴＲ/武雄/武雄のヤキモチ|ntr/takeo/takeos_jealousy|To do
-|ＮＴＲ/武雄/ご機嫌な和人|ntr/takeo/happy_kazuo|To do
-|ＮＴＲ/武雄/盛る和人|ntr/takeo/serve_kazuo|To do
+|ＮＴＲ/武雄/ご機嫌な和人|ntr/takeo/happy_kazuto|To do
+|ＮＴＲ/武雄/盛る和人|ntr/takeo/serve_kazuto|To do
 |ＮＴＲ/武雄/危険なジュース|ntr/takeo/dangerous_juice|To do
 |ＮＴＲ/武雄/夫の目の前で|ntr/takeo/in_front_of_husband|To do
 |ＮＴＲ/武雄/蚊に刺された|ntr/takeo/bitten_by_mosquito|To do
