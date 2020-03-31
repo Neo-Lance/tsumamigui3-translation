@@ -79,13 +79,13 @@
 |０１日目/夜２/神社|day_01/night_2/shinto_shrine|Done
 |０１日目/入浴/実家|day_01/bath/parents_home|Done
 |０１日目/深夜/実家|day_01/late_night/parents_home|Done
-|０２日目/朝/実家|day_02/morning/parents_home|To do
-|０２日目/昼１/商店街|day_02/daytime_1/shopping_district|To do
-|０２日目/昼２/バス停|day_02/daytime_2/bus_stop|To do
-|０２日目/夜１/実家|day_02/night_1/parents_home|To do
-|０２日目/夜２/実家|day_02/night_2/parents_home|To do
-|０２日目/入浴/実家|day_02/bath/parents_home|To do
-|０２日目/深夜/実家|day_02/late_night/parents_home|To do
+|０２日目/朝/実家|day_02/morning/parents_home|Done
+|０２日目/昼１/商店街|day_02/daytime_1/shopping_district|Done
+|０２日目/昼２/バス停|day_02/daytime_2/bus_stop|Done
+|０２日目/夜１/実家|day_02/night_1/parents_home|Done
+|０２日目/夜２/実家|day_02/night_2/parents_home|Done
+|０２日目/入浴/実家|day_02/bath/parents_home|Done
+|０２日目/深夜/実家|day_02/late_night/parents_home|Done
 |０３日目/朝/実家|day_03/morning/parents_home|To do
 |０３日目/昼１|day_03/daytime_1|To do
 |０３日目/昼１/海水浴場|day_03/daytime_1/swimming_area|To do

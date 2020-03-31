@@ -2,10 +2,14 @@
 
 ![overview](etc/patched_game_screenshot.jpg)
 
-## What the patch includes (or not), for now
-- Translation of the story very beginning
+## What the patch includes (or not)
+- Translation of the story very beginning (day 2/30), with a so-so translation quality
 - Font size change
-- No UI translation
+- No UI translation (that would be easier than finishing the story, but not useful at that point)
+
+## Plans for the future
+There is no plan actually.
+I'd like to translate at least 1 route, but even getting there is quite a lot.
 
 ## How to patch
 - Download a release
