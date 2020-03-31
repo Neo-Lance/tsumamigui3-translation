@@ -1,0 +1,25 @@
+
+; ＥＶ／０２日目／入浴／実家
+;s[2746] = "実家（風呂場）／夜"
+;s[2143] = "04_孤独_05_TD_4416_ST_BPM80"
+m[3191] = "While submerged in the bathtub, Akito"
+m[3192] = "softly covered his face with his hands."
+;s[1007] = "明人"
+;s[1102] = "裸"
+;s[2265] = "明人／真剣"
+m[3193] = "（Sister's tears……）"
+;s[2262] = "明人／悲しい"
+m[3194] = "（Why did I come home,"
+m[3195] = "　what for, huh……）"
+m[3196] = "While grumbling, he started to sink."
+m[3197] = "Actually, the previous night, and also tonight,"
+m[3198] = "he thought of Miyuri and could not find sleep."
+;s[1007] = "明人"
+m[3199] = "（A hopeless guy, that I am）"
+;s[1007] = "明人"
+m[3200] = "（Confessing at such a strange time,"
+m[3201] = "　I embarassed Miyuri……）"
+;s[1007] = "明人"
+m[3202] = "（Tomorrow, I can admire the precious swimsuit," ; despite or because ?
+m[3203] = "　but the tension is going down……）"
+
